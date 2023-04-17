@@ -4,7 +4,7 @@
 
 🌱 Debugging: Proficient in using Xcode's debugging tools to identify and fix bugs in iOS apps.
 Test Case Writing: Skilled in writing comprehensive test cases to ensure the reliability and stability of iOS applications.
-💞️ Strong Coding and Debugging Skills: Expertise in writing clean and maintainable code, following best coding practices, and effectively debugging issues.
+💞️ Strong Coding and Debugging Skills: Expertise in writing clean and maintainable code, following best coding practices, and effectively debugging issues. Feel free to contact me for any inquiries or collaboration opportunities.
 
 - 📫 How to reach me pallavi0204@gmail.com 
 
